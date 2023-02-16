@@ -12,6 +12,12 @@ Dataset has been obtained from the Chicago Police Department’s CLEAR (Citizen 
 ## Potential Improvements
 1. Compare results against other time-series tool
 
+## How to run
+1. Download the dataset `.csv` files in the `./datasets` directory and run the `main_notebook.ipynb` file
+
+![image](https://user-images.githubusercontent.com/87340855/219359477-bb844cb2-115f-4234-97de-af98cc21521c.png)
+
+
 ## Demo Images
 
 ### Primary Type of Crime (Count)
